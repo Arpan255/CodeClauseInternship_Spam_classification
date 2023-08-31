@@ -1,1 +1,17 @@
+# Spam Classification
+
+This repository contains a machine learning project focused on classifying spam and non-spam (ham) emails. The project utilizes various natural language processing (NLP) techniques and machine learning algorithms to create a predictive model for identifying spam emails.
+
+## Project Overview
+
+Spam emails can be a nuisance and a potential security risk. This project aims to develop an automated solution for classifying emails as spam or ham using machine learning. By training a model on a labeled dataset of emails, we can create an accurate classifier that can help filter out unwanted messages.
+
+## Dataset
+
+The dataset used for this project consists of a collection of labeled emails, with each email marked as spam or ham. The dataset is available at Kaggle. 
+The data preprocessing and feature extraction steps are detailed in the Colab Notebook.
+
+## Usage
+
+1. Clone the repository:
 
