@@ -11,7 +11,3 @@ Spam emails can be a nuisance and a potential security risk. This project aims t
 The dataset used for this project consists of a collection of labeled emails, with each email marked as spam or ham. The dataset is available at Kaggle. 
 The data preprocessing and feature extraction steps are detailed in the Colab Notebook.
 
-## Usage
-
-1. Clone the repository:
-
